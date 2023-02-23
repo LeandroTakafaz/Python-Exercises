@@ -1,5 +1,5 @@
 '''
-Exercício Python N°1: Desenvolva um programa que leia o nome, idade e sexo de 10 pessoas.
+Exercício Python N°3: Desenvolva um programa que leia o nome, idade e sexo de 10 pessoas.
 No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais 
 velho e quantas mulheres têm menos de 20 anos.
 '''
