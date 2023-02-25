@@ -1,0 +1,16 @@
+'''
+Exercício Python Nº6
+Faça um programa que peça dois números e imprima o maior deles.
+'''
+
+num1 = int(input('Informe um número: '))
+num2 = int(input('Informe outro número: '))
+
+if num1 > num2:
+    print('O maior valor digitado é: ',num1)
+    
+if num1 == num2:
+    print('os valores são iguais')
+    
+else:
+    print('O maior valor digitado é: ', num2)
