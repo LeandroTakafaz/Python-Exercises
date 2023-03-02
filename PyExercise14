@@ -1,5 +1,5 @@
 '''
-Exercício Python N°14
+Exercício Python N°14:
 Crie um algoritmo que receba um número, conte o número total de dígitos e mostre o resultado.
 '''
 print('\t ----Contagem dos dígitos---- ')
