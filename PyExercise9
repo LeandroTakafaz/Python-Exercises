@@ -1,5 +1,5 @@
 '''
-Exercício Python N°9
+Exercício Python N°9:
 Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 '''
 # Solicita o valor para o usuário
