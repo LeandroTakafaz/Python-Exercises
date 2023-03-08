@@ -1,5 +1,5 @@
 """
-Exercício Python N°3:
+Exercício Python N°1:
 Faça um programa em linguagem Python, que lê um 
 número n e imprime os n primeiros números da sequência de Fibonacci.
 """
