@@ -1,5 +1,5 @@
 '''
-Exercício Python Nº2:
+Exercício Python Nº3:
 Faça um programa que leia e valide as seguintes informações:
 Nome: maior que 3 caracteres;
 Idade: entre 0 e 150;
