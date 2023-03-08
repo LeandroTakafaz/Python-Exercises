@@ -1,4 +1,5 @@
 """
+Exercício Python N°4:
 Faça um programa que receba um número digitado pelo usuário e 
 calcule a soma de todos os números de 1 até ao número digitado.
 """
